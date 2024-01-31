@@ -1,0 +1,15 @@
+###Adicionar 
+
+POST http://localhost:5000/adicionar/2/3 
+
+###subtrair
+
+POST http://localhost:5000/subtrair/2/3 
+ 
+###multiplicar
+
+POST http://localhost:5000/multiplicar/2/3
+
+###dividir
+
+POST http://localhost:5000/dividir/2/3 
